@@ -39,7 +39,8 @@ Explain [subject] for a 10 year old child.
 ## Get perspectives on a topic
 
 ```
-Write about the [topic] from multiple perspectives of a group with differing viewpoints, using their respective voice and phrasing. Style important words in bold font. [topic]="Artificial Intelligence in the classroom"
+Write about the [topic] from multiple perspectives of a group with differing viewpoints, using their respective voice and phrasing. Style important words in bold font.
+[topic]="Artificial Intelligence in the classroom"
 ```
 
 ## SWOT analysis
